@@ -73,8 +73,8 @@ I just want to share my experience and adventure while I'm learning Python.
 
 # Additional readings
 
-> https://docs.reportlab.com/reportlab/userguide/ch1_intro/
-> https://docs.reportlab.com/reportlab/barcode/
-> https://pillow.readthedocs.io/en/stable/
-> https://docs.python.org/3/library/io.html
+- https://docs.reportlab.com/reportlab/userguide/ch1_intro/ 
+- https://docs.reportlab.com/reportlab/barcode/ 
+- https://pillow.readthedocs.io/en/stable/ 
+- https://docs.python.org/3/library/io.html
 
